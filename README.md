@@ -26,4 +26,14 @@ douban_zufang.py
     openpyxl
 
 
+kuwo_music.py --->>下载音乐
+酷我下载音乐
+使用python库
+    requests
+安装方法：
+    pip install requests -请求
+数据：
+将数据下载到本地
+
+
 
